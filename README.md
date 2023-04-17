@@ -3,11 +3,15 @@
 This is a react website showcasing a Trading Card Game using TCG Pokemon API.
 It includes 5 main features:
 
-    ![HomePage](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/1-%20HomePage.png)
-    ![Select a Type](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/2-%20Types.png)
-    ![List of Cards](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/3-%20List%20fo%20Cards.png)
-    ![Card Details](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/4-%20Card%20Details.png)
-    ![Error404](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/5-%20Error404.png)
+![HomePage](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/1-%20HomePage.png)
+    
+![Select a Type](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/2-%20Types.png)
+    
+![List of Cards](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/3-%20List%20fo%20Cards.png)
+    
+![Card Details](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/4-%20Card%20Details.png)
+    
+![Error404](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/5-%20Error404.png)
 
 ## Technologies Used
 
