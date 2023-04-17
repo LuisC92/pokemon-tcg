@@ -1,16 +1,13 @@
 # Pokemon-TCG - React.js
 
-This is a react website showcasing a Trading Card Game using Pokemon API.
+This is a react website showcasing a Trading Card Game using TCG Pokemon API.
 It includes 5 main features:
 
-    - HomePage
-    - Select a Type
-    - List of Cards
-    - Card Details
-    - Error404
-
-It was created as a workshop for the web development course of Wild Code School, with the goal of showcasing the potential of React.
-
+    - ![HomePage](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/1-%20HomePage.png)
+    - ![Select a Type](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/2-%20Types.png)
+    - ![List of Cards](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/3-%20List%20fo%20Cards.png)
+    - ![Card Details](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/4-%20Card%20Details.png)
+    - ![Error404](https://github.com/LuisC92/pokemon-tcg/blob/main/Mocks/5-%20Error404.png)
 
 ## Technologies Used
 
@@ -41,7 +38,7 @@ To install and use the project, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-```git clone ```
+```git clone https://github.com/LuisC92/pokemon-tcg```
 
 2. Navigate to the project directory:
 
