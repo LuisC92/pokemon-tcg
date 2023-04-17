@@ -1,0 +1,50 @@
+.container-card{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.row-card{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.elements-left{
+    padding: 1rem;
+    flex: 1 0 0;
+}
+
+.elements-left img{
+    max-width: 400px;
+    width: 100%;
+}
+
+.elements-right{
+    flex: 2 0 0;
+    text-align: left;
+}
+
+.data-boxes{
+    flex: 1 0 0;
+    margin: 5px;
+    min-width: 230px;
+    text-align: center;
+}
+
+.retreatCost-container{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 767px){
+    .row-card{
+        flex-flow: column wrap;
+    }
+    .data-boxes{
+        min-width: 150px;
+    }
+}

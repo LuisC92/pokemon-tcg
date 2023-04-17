@@ -1,0 +1,34 @@
+.ul-list-cards {
+  display: flex;
+  align-self: center;
+  flex-flow: row wrap;
+  justify-content: center;
+  list-style-type: none;
+  max-width: 1400px;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.li-element-cards {
+  margin: 0.25rem;
+  padding: 0.5rem;
+  transition: 0.2s all;
+}
+
+.li-element-cards:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.img-cards {
+  width: 230px;
+}
+
+@media (max-width: 767px) {
+  .ul-list-cards a {
+    width: 50%;
+  }
+  .img-cards {
+    width: 100%;
+  }
+}

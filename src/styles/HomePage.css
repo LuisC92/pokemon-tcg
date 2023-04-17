@@ -1,0 +1,17 @@
+
+.slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  max-width: 100vw;
+  height: 50vh;
+  position: relative;
+  overflow: hidden;
+  margin: 50px auto 100px auto;
+}
+
+.carousel-container {
+  display: flex;
+  position: absolute;
+}

@@ -1,0 +1,37 @@
+
+.title-h1-error{
+    font-size: 20rem;
+    margin: 0px;
+    color: #025554;
+}
+
+.image-error{
+    width: 300px;
+    padding: 0 15px;
+}
+
+.text-error{
+    font-size: 1.2rem;
+}
+
+.span-error{
+    color: #4d8887;
+	font-weight: 600;
+}
+
+@media (max-width: 768px){
+    .title-h1-error{
+        font-size: 8rem;
+    }
+    .image-error{
+        width: 120px;
+    }
+}
+@media (max-width: 425px){
+    .title-h1-error{
+        font-size: 4rem;
+    }
+    .image-error{
+        width: 60px;
+    }
+}
